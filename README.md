@@ -1,4 +1,4 @@
-```markdown
+
 # Data Structures and Algorithms Repository
 
 Welcome to my Data Structures and Algorithms (DSA) repository! 🚀 Here, you'll find a comprehensive collection of well-documented and implemented algorithms and data structures in C++. This repository is designed to aid in understanding fundamental concepts and serve as a resource for problem-solving.
@@ -44,6 +44,6 @@ Contributions are welcome! Whether it's fixing a bug, improving existing code, o
 This project is licensed under the [MIT License](LICENSE). Feel free to use the code for educational purposes, personal projects, or in any way that aligns with the license terms.
 
 Happy coding! 🖥️💡
-```
+
 
 Remember to customize the URLs, placeholders, and other details based on your repository structure and preferences. This README template is a starting point, and you can expand or modify it according to the specific needs of your DSA repository.

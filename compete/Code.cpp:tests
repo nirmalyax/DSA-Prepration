@@ -1,16 +1,5 @@
 [
 	{
-		"correct_answers":
-		[
-			"50"
-		],
-		"test": "20 30\n"
-	},
-	{
-		"correct_answers":
-		[
-			"70"
-		],
-		"test": "30 40\n"
+		"test": "10\n"
 	}
 ]

@@ -18,6 +18,7 @@ Thus, the final response will be { 3, 2, 1, 4, 5 }.*/
 queue<int> reverseElements(queue<int> q, int k)
 {
     // Write your code here.
+    
     if(k<=0 && k>q.size()){
         return q;
     }
